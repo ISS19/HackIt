@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38de3104.css",
+    "main.js": "/static/js/main.0a78cff2.js",
+    "static/js/787.2193586e.chunk.js": "/static/js/787.2193586e.chunk.js",
+    "static/media/Énergie-verte.jpeg": "/static/media/Énergie-verte.992955695420f7133c09.jpeg",
+    "static/media/bgvitrine.jpg": "/static/media/bgvitrine.48b2e0a64d9caa267d62.jpg",
+    "static/media/Rax.jpg": "/static/media/Rax.4d5b010abfaf2edb75df.jpg",
+    "static/media/R.jpg": "/static/media/R.317f69dd622bd61cc82d.jpg",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/background-1638299_1280.jpg": "/static/media/background-1638299_1280.2c5140d4566f4bf8a92e.jpg",
+    "static/media/R2.jpg": "/static/media/R2.d326034689b5280bc1f1.jpg",
+    "index.html": "/index.html",
+    "main.38de3104.css.map": "/static/css/main.38de3104.css.map",
+    "main.0a78cff2.js.map": "/static/js/main.0a78cff2.js.map",
+    "787.2193586e.chunk.js.map": "/static/js/787.2193586e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38de3104.css",
+    "static/js/main.0a78cff2.js"
+  ]
+}
